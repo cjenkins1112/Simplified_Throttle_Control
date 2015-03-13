@@ -14,7 +14,7 @@ void setup() {
 
 // ------------------Initialize Variables-------------------------------
 
-const int dyno = 2; // set dyno input pin number
+const int dyno = 5; // set dyno input pin number
 volatile float V; // define voltage variable for raw dyno input
 float currenttime; // define current time variable
 const float time1 = 10000; // define time for first test loop ms 10s
